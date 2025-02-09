@@ -1,4 +1,4 @@
- 🚀 Terraform: A Comprehensive Guide
+# 🚀 Terraform: A Comprehensive Guide
 
 ## 🔍 Introduction
 Terraform is an **Infrastructure as Code (IaC)** tool that allows users to define, provision, and manage infrastructure using a declarative configuration language. It helps automate the deployment of cloud and on-premises resources efficiently.
